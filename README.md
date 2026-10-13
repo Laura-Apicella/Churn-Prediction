@@ -99,6 +99,5 @@ Python · pandas · NumPy · scikit-learn · XGBoost · LightGBM · imbalanced-l
 
 
 
-Place `master_table.csv` and `target_table.csv` in the project folder, then run the notebook `churn_prediction_TIM_FINALE_v2.ipynb`.
 
 > **Note:** the datasets are not included in this repository.
